@@ -1,7 +1,7 @@
 //*************************************************************************
 //
-//    Programa que resuelve el modelo para filtrado utilizando punto fijo
-//    realiza K iteraciones de Gauss-Seidel
+// Program that solves the model for filtering using fixed point 
+// performs K Gauss-Seidel iterations
 //
 // Author       : Iván de Jesús May-Cen
 // Language     : C++
@@ -11,10 +11,6 @@
 //   Initial    : 2021-02-15 17:36:44 
 //   Last       : 2022-07-31
 //
-//  para compilar
-//    g++ -O2 wpdPFTVtest.cpp -o test -lrt -lblitz `pkg-config --cflags opencv4` `pkg-config --libs opencv4`
-//  para ejecutar
-//    ./test
 // 
 //*************************************************************************
 
