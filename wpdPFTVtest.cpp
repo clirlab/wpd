@@ -570,8 +570,8 @@ void iteracion_Gauss_Seidel( Array<double,2>& WP, Array<double,2>& Is, Array<dou
           }
 
         // iteracion de Gauss-Seidel
-        numReal = lambda1*(cos(WP(r,c)) + 2.0*lambda3*Ic(r,c)) + AIc*Ic(r+1,c) + BIc*Ic1(r-1,c) + CIc*Ic(r,c+1) + DIc*Ic1(r,c-1);
-        numIm = lambda2*(sin(WP(r,c)) + 2.0*lambda3*Is(r,c)) + AIs*Is(r+1,c) + BIs*Is1(r-1,c) + CIs*Is(r,c+1) + DIs*Is1(r,c-1);
+        numReal = lambda1*(cos(WP(r,c))) + 2.0*lambda3*Ic(r,c) + AIc*Ic(r+1,c) + BIc*Ic1(r-1,c) + CIc*Ic(r,c+1) + DIc*Ic1(r,c-1);
+        numIm = lambda2*(sin(WP(r,c))) + 2.0*lambda3*Is(r,c) + AIs*Is(r+1,c) + BIs*Is1(r-1,c) + CIs*Is(r,c+1) + DIs*Is1(r,c-1);
 
         auxReal = 2.0*lambda3*( Is(r,c)*Is(r,c) + Ic(r,c)*Ic(r,c) ) + lambda1;
         auxIm = 2.0*lambda3*( Is(r,c)*Is(r,c) + Ic(r,c)*Ic(r,c) ) + lambda2;
