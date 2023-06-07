@@ -45,10 +45,22 @@ where "option" is a integer:
 0 : experiment with sinthetic data
 1 : experiment with real data, "brain.jpeg" is the processed image
 
+-------------------------------------------------------------------------
+     PARALLEL/SERIAL VERSION
+         June, 7Th, 2023
+
+The sequential and parallel implementation codes for double and float precision are attached.
+To download from:
+          parallel.zip
+          serial.zip
+
+Las imágenes procesadas pueden descargarse desde:
+
+https://drive.google.com/drive/folders/1jR0-FazN7NIjIbjBNYV2Muxy8XnXA7AN?usp=sharing
 
 # ABOUT THIS FILE
 
-Copyright 2022
+Copyright 2023
 
 *"brain.jpeg" was an image obtained from Ghiglia and Pritt (1998).
 
