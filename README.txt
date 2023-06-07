@@ -49,12 +49,12 @@ where "option" is a integer:
      PARALLEL/SERIAL VERSION
          June, 7Th, 2023
 
-The sequential and parallel implementation codes for double and float precision are attached.
+The serial and parallel implementation codes for double and float precision are attached.
 To download from:
           parallel.zip
           serial.zip
 
-Las imágenes procesadas pueden descargarse desde:
+The processed images can be downloaded from:
 
 https://drive.google.com/drive/folders/1jR0-FazN7NIjIbjBNYV2Muxy8XnXA7AN?usp=sharing
 
