@@ -56,7 +56,7 @@ To download from:
 
 The processed images can be downloaded from:
 
-https://drive.google.com/drive/folders/1jR0-FazN7NIjIbjBNYV2Muxy8XnXA7AN?usp=sharing
+https://tinyurl.com/3zf3v6ht
 
 # ABOUT THIS FILE
 
