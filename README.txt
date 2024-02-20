@@ -58,6 +58,18 @@ The processed images can be downloaded from:
 
 https://tinyurl.com/3zf3v6ht
 
+-------------------------------------------------------------------------
+     PARALLEL/SERIAL VERSION COMBINED ADDITIVE AND MULTIPLICATIVE NOISE
+         January, 31Th, 2024
+
+The serial and parallel implementation codes for double and float precision are attached.
+To download from:
+          parallel-ANMN.zip
+
+The processed images can be downloaded from:
+
+https://drive.google.com/drive/folders/1MLX5BWdONxVK57xnJIyEQAzXMyiwokVi?usp=sharing
+
 # ABOUT THIS FILE
 
 Copyright 2023
